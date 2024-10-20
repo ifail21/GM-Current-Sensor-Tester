@@ -3,3 +3,5 @@ Freq_DutyCycle will determine the frequency at which it operates at
 Current_sensor_solo will calculate the current with some calibration
 
 Some other documentation regarding the technology and diagram.
+
+Added the PWM library required to use the current_sensor_solo.ino script.
